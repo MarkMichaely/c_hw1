@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "mymath.h"
+#include "myMath.h"
 #define EXPONENT 2.718281828
 
 //exphw stands for exp homework to avoid warnings

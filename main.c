@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "mymath.h"
+#include "myMath.h"
 
 int main() {
 	double userNum;
